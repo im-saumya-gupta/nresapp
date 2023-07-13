@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 13,
+  "articles": [
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Kerry Miller",
+      "title": "College Football Rankings: B/R's Top 25 After Week 5",
+      "description": "In a week featuring five showdowns between AP Top 25 teams, of course it was No. 1 Georgia at unranked Missouri that had the college football world on the edge...",
+      "url": "https://bleacherreport.com/articles/10050882-college-football-rankings-brs-top-25-after-week-5",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1664669537/ikbv2jhtr3axgvpagpol.jpg",
+      "publishedAt": "2022-10-02T04:33:19Z",
+      "content": "TCU's Max Duggan (Matthew Pearce/Icon Sportswire via Getty Images)\r\nThree weeks into the season, it looked like Oklahoma was going to be just fine while adjusting to life without Lincoln Riley and al… [+2049 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Adam Kramer",
+      "title": "Who Is the Best Team in CFB After Week 5: Georgia, Alabama or Ohio State?",
+      "description": "For weeks, there was a general consensus. Georgia was crowned the No. 1 team in college football after a blistering start, and the Bulldogs just naturally...",
+      "url": "https://bleacherreport.com/articles/10050931-who-is-the-best-team-in-cfb-after-week-5-georgia-alabama-or-ohio-state",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1664682631/qapn4njfgigmt07m0wif.jpg",
+      "publishedAt": "2022-10-02T03:57:02Z",
+      "content": "AP Photo/Michael Woods\r\nFor weeks, there was a general consensus.\r\nGeorgia was crowned the No. 1 team in college football after a blistering start, and the Bulldogs just naturally settled into the po… [+5120 chars]"
+    },
+    {
+      "source": { "id": "google-news-ca", "name": "Google News (Canada)" },
+      "author": "Bruce Deachman",
+      "title": "Update: Law enforcement bulks up in Sandy Hill, but crowd still masses post-Panda",
+      "description": "A large police presence awaited those returning from the uOttawa-Carleton football game, intent on preventing a repeat of 2021 disturbances.",
+      "url": "https://ottawacitizen.com/news/local-news/the-unsettling-calm-before-the-possible-storm-sandy-hill-residents-await-post-panda-outcome",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2022/10/sandy-hill-uottawa-panda-game_qw-3.jpg",
+      "publishedAt": "2022-10-02T02:37:09+00:00",
+      "content": "Some of my neighbours consider this a traumatizing event, and the neighbourhood as a whole goes into this weekend with a lot of trepidation, anxiety and fear. \r\nOttawa Police Service, Ontario Provinc… [+13685 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Paris Saint-Germain vs. Nice - Football Match Report - October 1, 2022 - ESPN",
+      "description": "Get a report of the Paris Saint-Germain vs. Nice 2022-23 Ligue 1 football match.",
+      "url": "http://espn.go.com/soccer/report?gameId=639695",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1001%2Fr1069471_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-10-02T01:52:19.3544715Z",
+      "content": "After a disappointing first season, Lionel Messi is flourishing in his second campaign at Paris Saint-Germain. Xavier Laine/Getty Images\r\nLionel Messi scored a stunning free kick and Kylian Mbappe st… [+1857 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Dozens killed, many hurt at Indonesia football match: Police",
+      "description": "Police fire tear gas after fans invade pitch, triggering a stampede and killing 127 people and wounding 180 more.",
+      "url": "http://www.aljazeera.com/news/2022/10/2/127-killed-after-stampede-at-indonesia-football-match",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/10/000_32KJ4XV.jpg?resize=1920%2C1272",
+      "publishedAt": "2022-10-02T01:18:48Z",
+      "content": "Indonesian police say at least 127 people have been killed and 180 were injured after a stampede at a football match in the province of East Java.\r\nAfter the match between Arema FC and Persebaya Sura… [+1090 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "127 people killed in horrific football riot",
+      "description": "<p><b>WARNING: Disturbing content</b></p>",
+      "url": "https://www.news.com.au/sport/football/127-people-killed-in-indonesian-football-riot/news-story/3c37bdbf9e9b26f42fc07a009c9ff7aa",
+      "urlToImage": "https://content.api.news/v3/images/bin/a190628116a7b5ba8f89975d87109001",
+      "publishedAt": "2022-10-02T01:03:00Z",
+      "content": "WARNING: Disturbing content\r\nAt least 127 people were killed, mostly trampled to death, when angry fans invaded a football pitch after a match in Malang, East Java in Indonesia late, police said.\r\nPe… [+1866 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Indonesia: More than 120 dead in football stampede",
+      "description": "At least 127 died after police tear-gassed rioting supporters after a match on East Java.",
+      "url": "http://www.bbc.co.uk/news/world-asia-63105945",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18666/production/_126924999_mediaitem126924995.jpg",
+      "publishedAt": "2022-10-02T00:52:18.2614958Z",
+      "content": "By George WrightBBC News\r\nAt least 127 people have died in a stampede at an Indonesian football match after police tear-gassed rioting supporters, officials say.\r\nAround 180 were injured in a crush a… [+521 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Morgan Moriarty",
+      "title": "College Football: Winners and Losers from Week 5",
+      "description": "In a loaded Week 5 slate, this weekend's college football games did not disappoint. On Friday night, UCLA moved to 5-0 and upset No. 15 Washington 40-32 at...",
+      "url": "https://bleacherreport.com/articles/10050915-college-football-winners-and-losers-from-week-5",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/x_69,y_36,w_1726,h_1151,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1664667481/yur9ldutwyzjveepfhtv.jpg",
+      "publishedAt": "2022-10-02T00:44:48Z",
+      "content": "Bryce Young. Wesley Hitt/Getty Images\r\nMan, Alabama survived a potential worst-case-scenario game Saturday against Arkansas. In the second quarter as the Tide led the Razorbacks 14-0, starting quarte… [+1635 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Week 5 college football winners and losers: Oklahoma implodes, Alabama shows resolve",
+      "description": "Another weekend in college football brought wild finishes and shocking upsets across the country. Here's the winners and losers from Week 5.",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2022/10/01/college-football-week-5-winners-losers-oklahoma-alabama/8153083001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/02/USAT/fa2032d6-d876-4049-8b32-71527f7a43b0-USATSI_19156745.jpg?crop=2841,1598,x218,y527&width=2841&height=1598&format=pjpg&auto=webp",
+      "publishedAt": "2022-10-02T00:33:59+00:00",
+      "content": "Saturday was all about the race for 62.\r\nAaron Judge? Nice guess, but wrong sport. \r\nTCU made a run at 62 points but dialed things back in the second half, settling for an eye-opening 55-27 win again… [+7696 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "College football top plays: NC State-Clemson; OK State tops Baylor",
+      "description": "Week 5 of the college football season concludes Saturday with North Carolina State battling Clemson. Here are the top plays!",
+      "url": "http://www.foxsports.com/stories/college-football/college-football-top-plays-nc-state-clemson-ok-state-tops-baylor",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/1408/814/9.30.22_CFB-Top-Plays_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-10-01T23:22:04Z",
+      "content": "Week 5 of the college football\r\n season came with a few upsets and a few dominating performances Saturday.\r\nEarlier on FOX, No. 4 Michigan went on the road and kept their perfect record alive after d… [+6611 chars]"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "L'Algérie candidate pour accueillir la CAN 2025",
+      "description": "Au lendemain de la décision de la Confédération africaine de football (CAF) de retirer l'organisation de la CAN 2025 à la Guinée, l'Algérie a annoncé ce samedi se porter officiellement candidate pour la remplacer.",
+      "url": "https://www.lequipe.fr/Football/Actualites/L-algerie-candidate-pour-accueillir-la-can-2025/1357121",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/capitaine-de-l-algerie-riyad-mahrez-pourrait-voir-son-pays-organiser-la-can-2025-a-martin-l-equipe/1500000001694101/0:0,1998:1332-640-427-75/464c6.jpg",
+      "publishedAt": "2022-10-01T22:22:00+00:00",
+      "content": "Zefizef Djahid, président de la Fédération algérienne de football, a officialisé ce samedi la candidature de l'Algérie pour l'organisation de la CAN 2025. Cette annonce fait suite à la décision de la… [+214 chars]"
+    },
+    {
+      "source": { "id": "national-review", "name": "National Review" },
+      "author": "Ryan Mills",
+      "title": "The Herschel Walker Wager",
+      "description": "Can the vivid former football player defeat Senator Raphael Warnock in Georgia?",
+      "url": "https://www.nationalreview.com/magazine/2022/10/17/the-herschel-walker-wager/",
+      "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/09/GettyImages-1243075278-Walker.jpg?fit=2057%2C1200",
+      "publishedAt": "2022-09-29T17:58:21Z",
+      "content": null
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
